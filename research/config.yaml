@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 topic: 💤 LazyVim
 description: ''
 keywords:
@@ -10,8 +11,23 @@ keywords:
 - documentation
 - installation
 - started
+=======
+topic: Neovim Lua plugin development
+description: ''
+keywords:
+- neovim
+- lua
+- editor
+- plugin
+- IDE
+- starter
+>>>>>>> 64af858528c007ba23c14102685193cc9ddb21da
 seed_papers: []
 max_results: 25
 min_citations: 0
 since_year: 2019
+<<<<<<< HEAD
 updated_at: null
+=======
+updated_at: '2026-03-10T02:19:21.747500'
+>>>>>>> 64af858528c007ba23c14102685193cc9ddb21da
