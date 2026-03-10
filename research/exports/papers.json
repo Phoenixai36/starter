@@ -1,0 +1,71 @@
+{
+  "repo": "starter",
+  "exported_at": "2026-03-10T02:19:21.746264",
+  "count": 2,
+  "papers": [
+    {
+      "id": "https://openalex.org/W4367061230",
+      "doi": "10.18293/seke2023-077",
+      "title": "Practices and Challenges of Using GitHub Copilot: An Empirical Study",
+      "authors": [
+        "Beiqi Zhang",
+        "Peng Liang",
+        "Xiyu Zhou",
+        "Aakash Ahmad",
+        "Muhammad Waseem"
+      ],
+      "year": 2023,
+      "venue": "Proceedings/Proceedings of the ... International Conference on Software Engineering and Knowledge Engineering",
+      "abstract": "With the advances in machine learning, there is a growing interest AI-enabled tools for autocompleting source code.GitHub Copilot, also referred to as \"AI Pair Programmer\", has been trained on billions of lines open GitHub code, and one such that increasingly used since its launch June 2021.However, little effort devoted understanding practices challenges using Copilot programming with auto-completed code.To this end, we conducted an empirical study by collecting analyzing data from Stack Overflow (SO) Discussions.More specifically, searched manually collected 169 SO posts 655 discussions related usage Copilot.We identified languages, IDEs, technologies functions implemented, benefits, limitations, when Copilot.The results show practitioners use Copilot: (1) The major languages are JavaScript Python, (2) main IDE Visual Studio Code, (3) most common technology Node.js,(4) leading function implemented processing, (5) significant benefit useful code generation, (6) limitation encountered difficulty integration.Our suggest like double-edged sword, which requires developers carefully consider various aspects deciding whether or not it.Our provides empirically grounded foundations basis future research role AI pair programmer software development.",
+      "cited_by_count": 48,
+      "is_oa": true,
+      "url": "https://openalex.org/W4367061230",
+      "pdf_url": "https://doi.org/10.18293/seke2023-077",
+      "concepts": [
+        "Computer science",
+        "JavaScript",
+        "Source code",
+        "Code (set theory)",
+        "Python (programming language)",
+        "Software engineering"
+      ],
+      "topic": "Software Engineering Research",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T02:16:55.605007",
+      "updated_at": "2026-03-10T02:19:21.740793"
+    },
+    {
+      "id": "https://openalex.org/W4409657453",
+      "doi": "10.1145/3696410.3714960",
+      "title": "FG-CIBGC: A Unified Framework for Fine-Grained and Class-Incremental Behavior Graph Classification",
+      "authors": [
+        "Zhibin Ni",
+        "Pan Fan",
+        "Sifan Dai",
+        "Bo Zhang",
+        "Hai Wan",
+        "Xibin Zhao"
+      ],
+      "year": 2025,
+      "venue": null,
+      "abstract": "Learning-based Behavior Graph Classification (BGC) is widely used in Internet infrastructure for partitioning and identifying similar behavior graphs, yet its real-world application faces notable challenges. The challenges are: (i) fine-grained emerging (ii) incremental model adaptations. To tackle these issues, we propose to mine semantics multi-source logs using Large Language Models (LLMs) under In-Context Learning (ICL), bridge the gap between Out-Of-Distribution (OOD) detection class-incremental graph learning. Based on ideas, develop first unified framework termed as Fine-Grained Class-Incremental (FG-CIBGC ). It consists of two novel modules, i.e., gPartition gAdapt, that are graphs performing unknown class adaptation, respectively. validate FG-CIBGC, introduce a new benchmark, including 4,992-graph, 32-class dataset from 8 attack scenarios Edge Intersection over Union (EIoU) metric. Extensive experiments show FG-CIBGC outperforms baselines BGC task generates which enhance downstream tasks.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W4409657453",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714960",
+      "concepts": [
+        "Computer science",
+        "Class (philosophy)",
+        "Graph",
+        "Theoretical computer science",
+        "Artificial intelligence"
+      ],
+      "topic": "Advanced Graph Neural Networks",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T02:16:55.606902",
+      "updated_at": "2026-03-10T02:19:21.744591"
+    }
+  ]
+}
